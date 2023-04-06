@@ -1,5 +1,4 @@
 --
--- Author: Rachel Orlowsky
 -- PostgreSQL database dump
 --
 
